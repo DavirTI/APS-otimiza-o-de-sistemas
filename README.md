@@ -1,3 +1,8 @@
+## Davi Ricardo Lima Correia
+## Matricula: 2022200550
+## Turma: 962-94349 Otimização de Sistemas
+
+
 # Modelagem Matemática
 
 ## Definições
